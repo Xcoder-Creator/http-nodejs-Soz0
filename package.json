@@ -4,6 +4,7 @@
   "main": "index.js",
   "author": "Aiden Bai",
   "license": "MIT",
+  "type": "commonjs"
   "scripts": {
     "start": "node server.mjs"
   }
